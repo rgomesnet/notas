@@ -3,6 +3,12 @@
 ## 1. Purpose
 Scrum is a framework for developing, delivering, and sustaining complex products.
 
+Scrum thrives best in an environment where well-considered experimental discovery is combined with fact-based decisions.
+
+Scrum thrives best in an organizational culture characterized by the courage to act in the moment, to change direction as needed, supported by knowledge and evidence reflecting reality, no matter what that reality or the hard truth is. 
+
+Scrum thrives best in a culture that values knowledge from actual experience more than a predictive plan and self-generated or imaginary ‘facts’.
+
 ## 2. Definition
 Consists:
 1. Scrum Team;
@@ -170,3 +176,4 @@ Consists:
 *Reference:*
 https://www.scrum.org/resources/scrum-guide
 
+https://scrumorg-website-prod.s3.amazonaws.com/drupal/2016-06/Empirical-Management-Explored.pdf

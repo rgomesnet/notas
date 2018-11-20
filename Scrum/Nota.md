@@ -60,5 +60,113 @@ Successful use of Scrum depends on people becoming more proficient in living the
  2. Development Team;
  3. Scrum Master.
 
+ Scrum Teams are self-organized and cross-functional.
+ 
+ Self-organizing teams choose how best to accomplish their work, rather than being directed by others outside the team.
+
+ Cross-functional teams have all competencies needed to accomplish the work without depending on others not part of the team.
+
+ Scrum Teams deliver products iteratively and incrementally, maximizing opportunities for feedback.
+
+ **The Product Owner** is responsible for maximizing the value of the product resulting from work of the *Development Team*.
+ 
+ The Product Owner is the sole person responsible for managing the *Product Backlog*.
+
+ The Product Owner is one person, not a committee. The Product Owner may represent the desires of a committee in the  Product Backlog, but those wanting to change a Product Backlog item's priority must address the Product Owner.
+
+ **The Development Team** consists of professionals who do the work of delivering a potentially releasable increment of "Done" product at the end of each Sprint.
+
+ Development Team size is betweem 3 and 9.
+
+ Fewer than three Development Team members decrease interaction and results in smaller productivity gains.
+
+ Having more than nine members requires too much coordination.
+
+ The Product Owner and Scrum Master roles are not included in this count unless they are also executing the work of the Sprint Backlog.
+
+**The Scrum Master** is responsible for promoting and supporting Scrum helping 
+everyone understand Scrum theory, practices, rules and values.
+
+The Scrum Master is a servant-leader for the Scrum Team.
+
+**The Scrum Master => the Product Owner**
+
+The Scrum Master servers the Product Owner in several ways, including:
+
+* Ensuring that goals, scope, and product domain are understood by everyone on the Scrum Team as well as possbile;
+* Finding techniques for effective Product Backlog management;
+* Helping the Scrum Team understand the need for clear and concise Product Backlog items;
+* Understanding product planning in an empirical environment;
+* Ensuring the Product Owner knows how to arrange the Product Backlog to maxime value;
+* Understanding and practicing agility; and,
+* Faciliting Scrum events as requested or needed.
+
+**The Scrum Master => the Development Team**
+
+The Scrum Master servers the Development Team in several ways, including:
+
+* Coaching the Development Team in self-organization and cross-functionality;
+* Helping the Development Team to create high-value products;
+* Removing impediments to the Development Team's progress;
+* Faciliting Scrum events as requested or needed; and,
+* Coaching the Development Team in organizational environments in wich Scrum is not yet fully adopted and understood.
+
+**The Scrum Master => the Organization**
+
+The Scrum Master servers the Organization in several ways, including:
+
+* Leading and coaching the organization in its Scrum adoption;
+* Planning Scrum implementations within the organization;
+* Helping employees and stakeholders understand and enact Scrum and empirical product development;
+* Causing change that increases the productivity of the Scrum Team; and,
+* Working with other Scrum Masters to increase the effectiveness of the application of Scrum in the organization.
+
+
+## 7. Scrum Events
+
+![Image](A_Scrum_Sprint.png "icon")
+
+The Scrum events are:
+* Sprint:
+
+    is time-boxed of one month, or less. A new Sprint starts immediately after the conclusion of the previous Sprint.
+
+* Sprint Planning:
+
+    is time-boxed to maximum of eight hours for a one-month Sprints. For shorter Sprints, the event is usually shorter.
+
+* Sprint Review:
+
+    is time-boxed to four-hour for one-month Sprints. For shorter Sprints, the event is usually shorter.
+
+* Sprint Retrospective:
+
+    is time-boxed to three-hour for one-month Sprints. For shorter Sprints, the event is usually shorter.
+
+* Daily Scrum:
+
+    is a 15 minutes time-boxed event for the Development Team.
+
+All events are time-boxed events, such that every event has a *maximum* duration.
+    
+Once a Sprint begins, its duration is fixed and cannot be shortened or lengthened.
+
+The remaining events may end whenever the purpose of the events is achieved.
+
+## 8. Scrum Artifacts
+
+Consists:
+
+* Product Backlog;
+    is an ordered list of everything that is known to be needed in the product.
+
+* Sprint Backlog;
+    is the set of Product Backlog items selected for the Sprint, plus a plan for develiring the product increment and realizing the Sprint Goal.
+
+* Increment.
+    is the sum of all the Product Backlog items completed during a Sprint and the value of incrments of all previous Sprint. 
+
+
 *Reference:*
 https://www.scrum.org/resources/scrum-guide
+
